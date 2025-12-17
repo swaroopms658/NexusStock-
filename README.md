@@ -1,6 +1,6 @@
 # NexusStock
 
-NexusStock is a modern stock market tracker web app  — a clean UI to view stock prices, track a watchlist, and view basic market data. The project is deployed at: https://nexus-stock-eight.vercel.app/
+NexusStock is a inventory management web app  — a clean UI to view inventory, track items,  The project is deployed at: https://nexus-stock-eight.vercel.app/
 
 <img width="850" height="732" alt="image" src="https://github.com/user-attachments/assets/e24a063e-6325-4eb5-a75f-0186fbcdafcd" />
 
@@ -9,16 +9,6 @@ NexusStock is a modern stock market tracker web app  — a clean UI to view stoc
 
 Try the live deployment here: https://nexus-stock-eight.vercel.app/
 
----
-
-## Features (example)
-
-- View real-time or near real-time stock quotes and basic metrics
-- Search stocks and add them to a watchlist
-- View simple price charts and historical data
-- Responsive UI for desktop and mobile
-
-(Adjust the list above to match actual functionality in the repository.)
 
 ---
 
